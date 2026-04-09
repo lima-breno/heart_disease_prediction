@@ -38,7 +38,9 @@ Este projeto investiga fatores de risco para doenças cardíacas coronarianas em
 ## **Resultados do Projeto:**
 
 **Modelo 1 (Gênero):** Odds Ratio para homens de 0.60, indicando 40% menos chance de DCC que mulheres. Testes de Deviance e Pearson Chi-Square apresentaram p-valores elevados, sugerindo um bom ajuste. AUC de aproximadamente 0.53, indicando baixo poder preditivo.
+
 **Modelo 2 (Gênero + Tabagismo):** A variável Tabagismo não foi estatisticamente significativa (p-valor > 0.05), sugerindo que ser fumante não demonstrou influência direta no risco de DCC neste modelo.
+
 **Modelo 3 (Idade):** Odds Ratio para idade de 0.925, indicando que para cada ano adicional, as chances de DCC diminuem em cerca de 7.47%. Este modelo obteve o menor AIC (2924.29) entre os três, mas sua Curva ROC com AUC de 0.31 indica que a idade, por si só, é um preditor muito fraco para DCC.
 
 ## **Conclusão:**
