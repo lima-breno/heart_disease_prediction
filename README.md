@@ -14,13 +14,15 @@ Este projeto investiga fatores de risco para doenças cardíacas coronarianas em
      3.3 Modelo 3: Avaliação do impacto da idade no risco de DCC.
   
 4. Avaliação e Interpretação dos Modelos
+   
      4.1 Testes de adequação do modelo (Teste de Deviance e Pearson Chi-Square).
    
-5. Interpretação dos coeficientes (razão de chance - Odds Ratio).
+6. Interpretação dos coeficientes (razão de chance - Odds Ratio).
+   
       5.1 Análise de resíduos (Deviance Residuals vs. Fitted Values e vs. Index).
    
-6. Avaliação do poder preditivo: Geração e análise de Curvas ROC (Receiver Operating Characteristic) e AUC (Area Under the Curve)
-7. Comparação dos modelos via Critério de Informação de Akaike (AIC).
+8. Avaliação do poder preditivo: Geração e análise de Curvas ROC (Receiver Operating Characteristic) e AUC (Area Under the Curve)
+9. Comparação dos modelos via Critério de Informação de Akaike (AIC).
 
 
 ## **Insights Chave**
