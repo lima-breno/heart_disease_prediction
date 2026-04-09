@@ -1,7 +1,7 @@
 # ❤️ **Análise de Risco de Doença Cardíaca Coronariana (DCC) em 10 Anos**
 Este projeto investiga fatores de risco para doenças cardíacas coronarianas em um horizonte de 10 anos, utilizando dados do estudo Framingham. O objetivo principal é modelar a probabilidade de desenvolver DCC com base em variáveis demográficas, como sexo e idade, através de Regressão Logística, e analisar a relevância de outros fatores como o tabagismo.
 
-## **📜 Workflow do Projeto **
+## 📜 Workflow do Projeto
 
 1. Preparação, Tratamento e Limpeza de Dados
 2. Análise Exploratória Inicial
