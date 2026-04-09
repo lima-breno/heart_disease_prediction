@@ -19,8 +19,11 @@ Este projeto investiga fatores de risco para doenças cardíacas coronarianas em
 
 ## **Insights Chave**
 **Risco por Gênero:** Homens apresentaram chances significativamente menores de desenvolver DCC em comparação com mulheres no Modelo 1.
+
 **Impacto do Tabagismo:** A variável currentSmoker não se mostrou estatisticamente significativa no Modelo 2.
+
 **Impacto da Idade:** A idade é um fator com relação inversa ao risco de DCC neste modelo simplificado, onde um aumento na idade corresponde a uma diminuição das odds de DCC. O Modelo 3 teve o menor AIC, indicando um melhor ajuste.
+
 **Desempenho dos Modelos:** O modelo com a idade (Modelo 3) apresentou o menor AIC, sugerindo ser o mais bem ajustado entre os testados, apesar de um baixo poder preditivo individual (AUC de 0.31).
 
 
