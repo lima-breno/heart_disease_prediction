@@ -6,15 +6,19 @@ Este projeto investiga fatores de risco para doenças cardíacas coronarianas em
 1. Preparação, Tratamento e Limpeza de Dados
 2. Análise Exploratória Inicial
 3. Modelagem de Regressão Logística
+   
   3.1 Modelo 1: Avaliação do impacto do Gender no risco de DCC.
+  
   3.2 Modelo 2: Avaliação do impacto de Gender e currentSmoker no risco de DCC.
+  
   3.3 Modelo 3: Avaliação do impacto da age no risco de DCC.
-4. Avaliação e Interpretação dos Modelos
+  
+5. Avaliação e Interpretação dos Modelos
   4.1 Testes de adequação do modelo (Teste de Deviance e Pearson Chi-Square).
-5. Interpretação dos coeficientes (razão de chance - Odds Ratio).
+6. Interpretação dos coeficientes (razão de chance - Odds Ratio).
   5.1 Análise de resíduos (Deviance Residuals vs. Fitted Values e vs. Index).
-6. Avaliação do poder preditivo: Geração e análise de Curvas ROC (Receiver Operating Characteristic) e AUC (Area Under the Curve)
-7. Comparação dos modelos via Critério de Informação de Akaike (AIC).
+7. Avaliação do poder preditivo: Geração e análise de Curvas ROC (Receiver Operating Characteristic) e AUC (Area Under the Curve)
+8. Comparação dos modelos via Critério de Informação de Akaike (AIC).
 
 
 ## **Insights Chave**
